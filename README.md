@@ -1,5 +1,5 @@
 # Glados-Checkin
-The Easiest Way To Check Glados In 👍. | 最简单的Glados_Checkin方式  
+The Easiest Way To Check Glados In 👍. | 最简单的Glados_Checkin方式  | 请勿用于Github Actions(大概率ban)  
 - 多用户
 - 可外部调用
 - 可推送Server酱
